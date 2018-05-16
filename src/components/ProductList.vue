@@ -1,6 +1,6 @@
 <template>
   <div>
-      <h1>Product List</h1>
+      <h1>Lista de productos</h1>
       <img
       v-if="loading"
       src="https://i.imgur.com/JfPpwOA.gif"
